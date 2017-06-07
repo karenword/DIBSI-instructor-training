@@ -1,5 +1,6 @@
 ---
 title: Novices and Formative Assessment
+start: true
 teaching: 20
 exercises: 45
 questions:
