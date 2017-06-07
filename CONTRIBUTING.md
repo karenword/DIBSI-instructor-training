@@ -1,3 +1,5 @@
+Please note: these instructions describe the guidelines for contributing to the original materials developed for Software Carpentry and Data Carpentry training purposes. 
+
 # Contributing
 
 [Software Carpentry][swc-site] and [Data Carpentry][dc-site] are open source projects,
